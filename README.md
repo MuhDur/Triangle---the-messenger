@@ -9,10 +9,10 @@ and to get to know different technologies that are needed to successfully launch
 a Messenger app, which in itself is a big untertaking.
 Proper project management was also very important.
 
-App development with React Native (iOS and Android)
-(+ a little bit of Java)
-Backend/API: PHP
-Database: MySQL
-Website: triangle.bulme.at
-Frontend: VueJS
-Backend: Laravel Framework
+App development with <b>React Native</b> (iOS and Android)  
+(+ a little bit of Java)  
+<b>Backend/API:</b> PHP  
+<b>Database:</b> MySQL  
+<b>Website:</b> triangle.bulme.at  
+<b>Frontend:</b> VueJS  
+<b>Backend:</b> Laravel Framework  
