@@ -1,5 +1,5 @@
 # Triangle---the-messenger
-**** First part: Eventmanager ****
+**** Exclusively my part: Eventmanager & GeoAPI ****
 
 React Native Messenger
 
