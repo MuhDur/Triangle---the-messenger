@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"fetch": "^1.1.0",
-		"moment": "^2.20.1",
+		"moment": "^2.29.2",
 		"native-base": "^2.3.5",
 		"node-fetch": "^1.7.3",
 		"react": "16.0.0-beta.5",
